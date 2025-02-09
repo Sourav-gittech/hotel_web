@@ -1,0 +1,163 @@
+@media (max-width: 1199px) {
+
+    /* Custom css section  */
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    /* Header section  */
+    .header_wrapper .navbar-expand-lg .navbar-nav {
+        align-items: center;
+    }
+
+    .header_wrapper .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0;
+        font-size: .875rem;
+    }
+
+    /* Booking-area section  */
+    .banner_wrapper .booking-area {
+        padding: 3rem 0.625rem;
+    }
+
+    .banner_wrapper .booking-area .main-btn {
+        padding-left: .3125rem !important;
+        padding-right: .3125rem !important;
+    }
+
+    /* Room section  */
+    .rooms_wrapper .room-items .room-content {
+        padding: 1rem 1.875rem;
+    }
+
+    .rooms_wrapper .room-items .room-content h5 {
+        font-size: 1.2rem;
+    }
+
+    .rooms_wrapper .room-items .room-content p {
+        font-size: 0.75rem;
+    }
+
+    /* Service section  */
+    .services_wrapper .service-item-wrap .tab-content img {
+        width: 100%;
+    }
+
+    .services_wrapper .service-menu-area ul li a {
+        margin-bottom: .8125rem;
+        overflow: hidden;
+    }
+
+    .services_wrapper .service-menu-area ul li:nth-child(1) {
+        margin-left: -4.4375rem;
+    }
+
+    .services_wrapper .service-menu-area ul li:nth-child(2) {
+        margin-left: -6.9375rem;
+    }
+
+    .services_wrapper .service-menu-area ul li:nth-child(3) {
+        margin-left: -9.375rem;
+    }
+
+    .services_wrapper .service-menu-area ul li:nth-child(4) {
+        margin-left: -12.825rem;
+    }
+
+    .services_wrapper .service-menu-area ul li a h5 {
+        margin-bottom: .375rem;
+    }
+}
+
+@media (max-width: 992px) {
+
+    /* Custom css section  */
+    section {
+        padding: 1.875rem 0;
+    }
+
+    /* Navbar section  */
+    .header-scrolled {
+        height: auto;
+    }
+
+    .header_wrapper .menu-navbar-nav {
+        text-align: center;
+        padding-bottom: .9375rem;
+    }
+
+    .header_wrapper .nav-item .nav-link {
+        margin-top: .9375rem;
+    }
+
+    /* Banner-wrapper section  */
+    .banner_wrapper {
+        height: 25.625rem;
+    }
+
+    /* Booking-area section  */
+    .banner_wrapper .booking-area {
+        padding: 3.125rem 1.875rem;
+        text-align: center;
+    }
+
+    /* About section  */
+    .about_wrapper {
+        padding-top: 22.375rem;
+    }
+
+    /* Room section  */
+    .rooms_wrapper .room-items .room-content {
+        padding: 2rem 1.875rem;
+    }
+
+    .rooms_wrapper .room-items .room-content h5 {
+        font-size: 1.5rem;
+    }
+
+    .rooms_wrapper .room-items .room-content p {
+        font-size: 1rem;
+    }
+
+    /* Service section  */
+    .services_wrapper .service-menu-area {
+        padding: 1.5rem 0.5rem;
+    }
+
+    .services_wrapper .service-menu-area ul li {
+        margin-left: unset !important;
+    }
+}
+
+@media (max-width: 767px) {
+
+    /* Custom css section  */
+    h1 {
+        font-size: 1.875rem;
+        line-height: 2.5rem;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+        line-height: 2.1875rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    p {
+        font-size: 0.8125rem;
+        line-height: 1.5rem;
+    }
+
+    /* Blog section  */
+    .blog_wrapper .blog-card:nth-child(n) .blog-content {
+        margin: 0;
+    }
+
+    /* Footer section  */
+    .footer_wrapper>div {
+        padding: 0 1.875rem;
+    }
+}
