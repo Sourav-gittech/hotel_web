@@ -17,7 +17,7 @@ Welcome to the **Hotel Website** project! This is a responsive and visually appe
 
 ## Demo 🌐
 
-Check out the live demo: https://sourav-gittech.github.io/Restaurant-1_web
+Check out the live demo: https://sourav-gittech.github.io/hotel_web
 
 ## Folder Structure 📂
 
